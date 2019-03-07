@@ -1,4 +1,4 @@
-#tiff-to-jpeg-converter
+tiff-to-jpeg-converter
 Simple code to convert multiple tiff files to jpeg
 
 Code takes a folder (can contain multiple subfolders) and converts all tiff files to jpeg. The code saves the new jpeg files in a different folder of your choice
